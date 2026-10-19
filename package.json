@@ -1,0 +1,8 @@
+{
+  "name": "arena-brawl-online",
+  "version": "1.0.0",
+  "description": "A small online 2D fighting game built with Canvas and Socket.IO",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
